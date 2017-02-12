@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>bqm-add.png</file>
+        <file>bqm-remove.png</file>
+    </qresource>
+</RCC>
