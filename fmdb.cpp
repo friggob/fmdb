@@ -16,7 +16,7 @@ fmdb::fmdb(QWidget *parent) :
   QMainWindow(parent),
   ui(new Ui::fmdb)
 {
-  dbPath = "/ds/filmer/fmdb.db2";
+  dbPath = "/ds/filmer/fmdb.db";
 
   setupDb(dbPath);
 
